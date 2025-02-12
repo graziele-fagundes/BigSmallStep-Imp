@@ -4,9 +4,9 @@ Este projeto implementa um interpretador para uma linguagem imperativa simples, 
 
 # Autores
 
-Graziele Fagundes Martins - 21201339
+Graziele Fagundes Martins
 
-João Vitor Farias - 21201501
+João Vitor Farias
 
 # Funcionalidades
 
