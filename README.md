@@ -22,18 +22,18 @@ João Vitor Farias - 21201501
 
   - Seq (sequência de comandos)
 
-Atrib (atribuição de variável)
+  - Atrib (atribuição de variável)
 
-Skip (comando vazio)
+  - Skip (comando vazio)
 
-Twice (executa um comando duas vezes)
+  - Twice (executa um comando duas vezes)
 
-RepeatUntil (repetição até que uma condição seja satisfeita)
+  - RepeatUntil (repetição até que uma condição seja satisfeita)
 
-ExecN (executa um comando n vezes)
+  - ExecN (executa um comando n vezes)
 
-Assert (avalia uma condição antes de executar um comando)
+  - Assert (avalia uma condição antes de executar um comando)
 
-Swap (troca os valores de duas variáveis)
+  - Swap (troca os valores de duas variáveis)
 
-DAtrib (dupla atribuição de valores a duas variáveis)
+  - DAtrib (dupla atribuição de valores a duas variáveis)
