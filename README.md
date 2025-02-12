@@ -16,11 +16,11 @@ João Vitor Farias - 21201501
 
 - Comandos:
 
-While, DoWhile
+  - While, DoWhile
 
-If-Then-Else
+  - If-Then-Else
 
-Seq (sequência de comandos)
+  - Seq (sequência de comandos)
 
 Atrib (atribuição de variável)
 
