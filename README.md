@@ -10,11 +10,11 @@ João Vitor Farias - 21201501
 
 # Funcionalidades
 
-Expressões Aritméticas: Soma, subtração, multiplicação, divisão, variáveis e números inteiros.
+- Expressões Aritméticas: Soma, subtração, multiplicação, divisão, variáveis e números inteiros.
 
-Expressões Booleanas: Valores lógicos (TRUE, FALSE), operadores (Not, And, Or), e comparações (Leq, Igual).
+- Expressões Booleanas: Valores lógicos (TRUE, FALSE), operadores (Not, And, Or), e comparações (Leq, Igual).
 
-Comandos:
+- Comandos:
 
 While, DoWhile
 
